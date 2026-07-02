@@ -1,0 +1,11 @@
+# Delphi
+*.dcu
+*.exe
+*.dproj.local
+*.identcache
+*.tvsconfig
+__history/
+__recovery/
+Win32/
+Win64/
+*.dsk
