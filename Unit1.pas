@@ -74,8 +74,8 @@ begin
 
   IMC := Peso / (Altura * Altura);
 
-  lblResultado.Caption := Format('Seu IMC é: %.2f', [IMC]);
-  lblClassificacao.Caption := 'Classificação: ' + ClassificarIMC(IMC);
+   lblResultado.Caption := Format('Seu IMC: %.2f', [IMC]);
+   lblClassificacao.Caption := 'Classificacao: ' + ClassificarIMC(IMC);
 end;
 
 end.
