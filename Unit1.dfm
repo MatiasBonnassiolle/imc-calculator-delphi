@@ -32,7 +32,7 @@ object Form1: TForm1
     Top = 160
     Width = 121
     Height = 15
-    Caption = 'Seu IMC é: --'
+    Caption = 'Seu IMC: --'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -14
@@ -45,7 +45,7 @@ object Form1: TForm1
     Top = 190
     Width = 122
     Height = 15
-    Caption = 'Classificação: --'
+    Caption = 'Classificacao: --'
   end
   object edtPeso: TEdit
     Left = 128
